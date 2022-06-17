@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>dzielniknapiecajpg.jpg</file>
+        <file>rownolegle.jpg</file>
+        <file>szeregowo.jpg</file>
+        <file>rezystordodiody.jpg</file>
+        <file>diodaObraz.jpg</file>
+        <file>dzielnikobraz.jpg</file>
+        <file>laczenieRezystorow.jpg</file>
+        <file>StartButton.png</file>
+    </qresource>
+    <qresource prefix="/file"/>
+</RCC>
